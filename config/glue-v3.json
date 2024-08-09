@@ -1,0 +1,9 @@
+{
+  "network": "glue",
+  "AaveOracleAddress": "0xacD85EFBd5d15826F7FabBB6063129267b5aB192",
+  "AaveOracleStartBlock": 234474,
+  "PoolAddressesProviderRegistryAddress": "0x3e95237E84bAa8b76954c08C6274913852405b06",
+  "PoolAddressesProviderRegistryStartBlock": 234414,
+  "RewardsControllerAddress": "0xbE540b86E7b61624458ca928e9065e2133dBCA3a",
+  "RewardsControllerStartBlock": 8294522
+}
