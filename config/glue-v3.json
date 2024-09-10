@@ -1,9 +1,9 @@
 {
   "network": "glue",
-  "AaveOracleAddress": "0xacD85EFBd5d15826F7FabBB6063129267b5aB192",
-  "AaveOracleStartBlock": 234474,
-  "PoolAddressesProviderRegistryAddress": "0x3e95237E84bAa8b76954c08C6274913852405b06",
-  "PoolAddressesProviderRegistryStartBlock": 234414,
+  "AaveOracleAddress": "0x0a92006d91725D74b233D047fc262d4CaFde9cf9",
+  "AaveOracleStartBlock": 685668,
+  "PoolAddressesProviderRegistryAddress": "0xBB0f9bc5634DfE7B92635E7bEeBc99170a92FF57",
+  "PoolAddressesProviderRegistryStartBlock": 685528,
   "RewardsControllerAddress": "0xbE540b86E7b61624458ca928e9065e2133dBCA3a",
-  "RewardsControllerStartBlock": 8294522
+  "RewardsControllerStartBlock": 685528
 }
