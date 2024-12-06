@@ -1,5 +1,5 @@
 {
-  "network": "glue",
+  "network": "glue-testnet",
   "AaveOracleAddress": "0x0a92006d91725D74b233D047fc262d4CaFde9cf9",
   "AaveOracleStartBlock": 685668,
   "PoolAddressesProviderRegistryAddress": "0xBB0f9bc5634DfE7B92635E7bEeBc99170a92FF57",
